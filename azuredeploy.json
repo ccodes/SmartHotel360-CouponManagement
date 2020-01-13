@@ -11,7 +11,7 @@
     },
     "mySQLAdminLoginName": {
       "type": "string",
-      "defaultValue": "azureuser",
+      "defaultValue": "myLogin2020",
       "metadata": {
         "description": "Admin login name cannot be 'azure_superuser', 'admin', 'administrator', 'root', 'guest' or 'public'."
       }
